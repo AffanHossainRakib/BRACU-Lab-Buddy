@@ -112,7 +112,7 @@ export default function IndexPage() {
 
         <Card className="w-full max-w-md">
           <CardHeader>
-            <h2 className="text-xl font-semibold">Find a Free Lab Room</h2>
+            <h2 className="text-xl font-semibold">Find a Free Lab Room: CSE Only</h2>
           </CardHeader>
           <CardBody className="space-y-4">
             <Select
