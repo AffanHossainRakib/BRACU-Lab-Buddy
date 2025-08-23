@@ -23,7 +23,7 @@ import { ChevronDown } from "lucide-react";
 export const Navbar = () => {
   return (
     <HeroUINavbar maxWidth="xl" position="sticky">
-      <NavbarContent className="basis-1/5 sm:basis-full" justify="start">
+      <NavbarContent justify="start">
         <NavbarBrand className="gap-3 max-w-fit">
           <div className="flex justify-start items-center gap-2">
             <Computer className="text-primary" size={24} />
@@ -31,27 +31,24 @@ export const Navbar = () => {
         </NavbarBrand>
       </NavbarContent>
 
-      <NavbarContent className="basis-3/5 sm:basis-full" justify="center">
+      <NavbarContent justify="center">
         <NavbarItem>
           <h1 className="font-bold text-lg text-primary">BRACU Lab Buddy</h1>
         </NavbarItem>
       </NavbarContent>
 
-      <NavbarContent className="basis-1/5 sm:basis-full" justify="end">
-        <NavbarItem>
+      <NavbarContent justify="end" className="gap-2">
+        <NavbarItem className="flex items-center">
           <ThemeSwitch />
         </NavbarItem>
-      </NavbarContent>
-
-      <NavbarContent className="basis-1/5 sm:basis-full" justify="end">
-        <NavbarItem>
+        <NavbarItem className="flex items-center">
           <Dropdown>
             <DropdownTrigger>
               <Button
                 variant="light"
                 size="sm"
-                endContent={<ChevronDown size={14} />}
-                className="text-default-500"
+                endContent={<ChevronDown size={16} />}
+                className="text-default-500 h-8 min-w-unit-20"
               >
                 Other Tools
               </Button>

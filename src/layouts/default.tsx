@@ -2,6 +2,7 @@ import { Chip } from "@heroui/chip";
 import { Github } from "lucide-react";
 
 import { Navbar } from "@/components/navbar";
+import { Analytics } from "@vercel/analytics/react";
 
 export default function DefaultLayout({
   children,
@@ -29,6 +30,7 @@ export default function DefaultLayout({
           Made by Affan Hossain Rakib
         </Chip>
       </footer>
+      <Analytics />
     </div>
   );
 }

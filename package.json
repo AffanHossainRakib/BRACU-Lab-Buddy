@@ -30,6 +30,7 @@
     "@react-types/shared": "3.31.0",
     "@tailwindcss/postcss": "4.1.11",
     "@tailwindcss/vite": "4.1.11",
+    "@vercel/analytics": "^1.5.0",
     "clsx": "2.1.1",
     "framer-motion": "11.18.2",
     "lucide-react": "^0.541.0",
