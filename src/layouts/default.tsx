@@ -11,11 +11,27 @@ export default function DefaultLayout({
 }: {
   children: React.ReactNode;
 }) {
-  const [showToast1, setShowToast1] = useState(true);
-  const [showToast2, setShowToast2] = useState(true);
+  const [showToast1, setShowToast1] = useState(() => {
+    const cached = localStorage.getItem('toast1-dismissed');
+    return cached !== 'true';
+  });
+  const [showToast2, setShowToast2] = useState(() => {
+    const cached = localStorage.getItem('toast2-dismissed');
+    return cached !== 'true';
+  });
 
   const handleGitHubClick = () => {
     window.open("https://github.com/AffanHossainRakib/", "_blank");
+  };
+
+  const handleToast1Close = () => {
+    setShowToast1(false);
+    localStorage.setItem('toast1-dismissed', 'true');
+  };
+
+  const handleToast2Close = () => {
+    setShowToast2(false);
+    localStorage.setItem('toast2-dismissed', 'true');
   };
 
   return (
@@ -29,7 +45,7 @@ export default function DefaultLayout({
             color="primary"
             title="Last Updated Fall 2025"
             isClosable
-            onClose={() => setShowToast1(false)}
+            onClose={handleToast1Close}
           />
         )}
         {showToast2 && (
@@ -45,7 +61,7 @@ export default function DefaultLayout({
             }
             className="cursor-pointer"
             isClosable
-            onClose={() => setShowToast2(false)}
+            onClose={handleToast2Close}
           />
         )}
       </div>
