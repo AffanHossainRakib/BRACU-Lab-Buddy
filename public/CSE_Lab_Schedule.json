@@ -1,55 +1,49 @@
 [
     {
         "Course": "CSE101-01",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT11-04L"
+    },
+    {
+        "Course": "CSE101-02",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT11-04L"
+    },
+    {
+        "Course": "CSE101-03",
         "Lab Day": "SAT",
         "Lab Time (3hr)": "8:00 AM",
         "Lab Room": "FT11-03L"
     },
     {
-        "Course": "CSE101-02",
+        "Course": "CSE101-04",
         "Lab Day": "TUE",
         "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "FT11-03L"
     },
     {
-        "Course": "CSE101-03",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT11-04L"
-    },
-    {
-        "Course": "CSE101-04",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT11-03L"
-    },
-    {
         "Course": "CSE101-05",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "FT11-04L"
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT11-03L"
     },
     {
         "Course": "CSE101-06",
-        "Lab Day": "SUN",
+        "Lab Day": "SAT",
         "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "FT11-03L"
     },
     {
-        "Course": "CSE103-01",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "11B-20L"
-    },
-    {
         "Course": "CSE110-01",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "2:00 PM",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "8:00 AM",
         "Lab Room": "09B-08L"
     },
     {
         "Course": "CSE110-02",
-        "Lab Day": "THU",
+        "Lab Day": "WED",
         "Lab Time (3hr)": "11:00 AM",
         "Lab Room": "09B-08L"
     },
@@ -62,50 +56,50 @@
     {
         "Course": "CSE110-04",
         "Lab Day": "WED",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09B-10L"
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09B-09L"
     },
     {
         "Course": "CSE110-05",
         "Lab Day": "THU",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09F-27L"
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09B-08L"
     },
     {
         "Course": "CSE110-06",
-        "Lab Day": "WED",
+        "Lab Day": "THU",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09B-10L"
+        "Lab Room": "09B-08L"
     },
     {
         "Course": "CSE110-07",
         "Lab Day": "THU",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09B-10L"
-    },
-    {
-        "Course": "CSE110-08",
-        "Lab Day": "WED",
         "Lab Time (3hr)": "8:00 AM",
         "Lab Room": "09B-11L"
     },
     {
-        "Course": "CSE110-09",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09B-10L"
+        "Course": "CSE110-08",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09B-08L"
     },
     {
-        "Course": "CSE110-10",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "11:00 AM",
+        "Course": "CSE110-09",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "8:00 AM",
         "Lab Room": "09B-09L"
     },
     {
-        "Course": "CSE110-11",
+        "Course": "CSE110-10",
         "Lab Day": "WED",
-        "Lab Time (3hr)": "2:00 PM",
+        "Lab Time (3hr)": "8:00 AM",
         "Lab Room": "09B-10L"
+    },
+    {
+        "Course": "CSE110-11",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09B-08L"
     },
     {
         "Course": "CSE110-12",
@@ -115,147 +109,147 @@
     },
     {
         "Course": "CSE110-13",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09B-08L"
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09B-10L"
     },
     {
         "Course": "CSE110-14",
         "Lab Day": "WED",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09B-08L"
+        "Lab Room": "09B-10L"
     },
     {
         "Course": "CSE110-15",
         "Lab Day": "WED",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09B-09L"
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09E-21L"
     },
     {
         "Course": "CSE110-16",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09B-09L"
-    },
-    {
-        "Course": "CSE110-17",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09B-08L"
-    },
-    {
-        "Course": "CSE110-18",
         "Lab Day": "THU",
         "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "09B-09L"
     },
     {
-        "Course": "CSE110-19",
+        "Course": "CSE110-17",
         "Lab Day": "THU",
         "Lab Time (3hr)": "8:00 AM",
         "Lab Room": "09B-10L"
     },
     {
-        "Course": "CSE110-20",
+        "Course": "CSE110-18",
         "Lab Day": "WED",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09B-08L"
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09B-11L"
+    },
+    {
+        "Course": "CSE110-19",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09B-11L"
+    },
+    {
+        "Course": "CSE110-20",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09B-10L"
     },
     {
         "Course": "CSE110-21",
         "Lab Day": "THU",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09B-11L"
+        "Lab Room": "09B-10L"
     },
     {
         "Course": "CSE110-22",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "10G-32L"
-    },
-    {
-        "Course": "CSE110-23",
         "Lab Day": "THU",
-        "Lab Time (3hr)": "8:00 AM",
+        "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "09B-11L"
     },
     {
         "Course": "CSE110-24",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09E-22L"
-    },
-    {
-        "Course": "CSE111-01",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09E-21L"
-    },
-    {
-        "Course": "CSE111-02",
         "Lab Day": "WED",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09E-21L"
+        "Lab Room": "09B-11L"
     },
     {
-        "Course": "CSE111-03",
+        "Course": "CSE110-25",
         "Lab Day": "WED",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "12F-31L"
-    },
-    {
-        "Course": "CSE111-04",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09E-21L"
-    },
-    {
-        "Course": "CSE111-05",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12F-31L"
-    },
-    {
-        "Course": "CSE111-06",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09B-10L"
-    },
-    {
-        "Course": "CSE111-07",
-        "Lab Day": "TUE",
         "Lab Time (3hr)": "8:00 AM",
         "Lab Room": "09B-11L"
     },
     {
-        "Course": "CSE111-08",
+        "Course": "CSE111-01",
         "Lab Day": "TUE",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09B-10L"
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09B-08L"
     },
     {
-        "Course": "CSE111-09",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09F-24L"
+        "Course": "CSE111-02",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09B-08L"
     },
     {
-        "Course": "CSE111-10",
+        "Course": "CSE111-03",
         "Lab Day": "WED",
         "Lab Time (3hr)": "8:00 AM",
         "Lab Room": "09E-22L"
     },
     {
-        "Course": "CSE111-11",
+        "Course": "CSE111-04",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09E-22L"
+    },
+    {
+        "Course": "CSE111-05",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09E-21L"
+    },
+    {
+        "Course": "CSE111-06",
         "Lab Day": "TUE",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09B-10L"
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09B-08L"
+    },
+    {
+        "Course": "CSE111-07",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "12F-32L"
+    },
+    {
+        "Course": "CSE111-08",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "12D-27L"
+    },
+    {
+        "Course": "CSE111-09",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12F-32L"
+    },
+    {
+        "Course": "CSE111-10",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09E-21L"
+    },
+    {
+        "Course": "CSE111-11",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09E-22L"
     },
     {
         "Course": "CSE111-12",
         "Lab Day": "TUE",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09B-08L"
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09B-09L"
     },
     {
         "Course": "CSE111-13",
@@ -265,69 +259,63 @@
     },
     {
         "Course": "CSE111-14",
-        "Lab Day": "WED",
+        "Lab Day": "TUE",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09E-22L"
+        "Lab Room": "09B-09L"
     },
     {
         "Course": "CSE111-15",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09B-11L"
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09B-10L"
     },
     {
         "Course": "CSE111-16",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09B-08L"
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09F-24L"
     },
     {
         "Course": "CSE111-17",
         "Lab Day": "TUE",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09B-09L"
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09B-10L"
     },
     {
         "Course": "CSE111-18",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09B-08L"
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09F-24L"
     },
     {
         "Course": "CSE111-19",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09B-09L"
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09F-24L"
     },
     {
         "Course": "CSE111-20",
         "Lab Day": "WED",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09E-22L"
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09F-26L"
+    },
+    {
+        "Course": "CSE111-21",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09B-10L"
     },
     {
         "Course": "CSE111-22",
         "Lab Day": "TUE",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09B-11L"
-    },
-    {
-        "Course": "CSE111-23",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "10E-27L"
-    },
-    {
-        "Course": "CSE111-24",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "2:00 PM",
+        "Lab Time (3hr)": "8:00 AM",
         "Lab Room": "09B-11L"
     },
     {
         "Course": "CSE220-01",
         "Lab Day": "SUN",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09B-09L"
+        "Lab Room": "09B-10L"
     },
     {
         "Course": "CSE220-02",
@@ -337,9 +325,9 @@
     },
     {
         "Course": "CSE220-03",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09B-11L"
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09B-08L"
     },
     {
         "Course": "CSE220-04",
@@ -349,1346 +337,1460 @@
     },
     {
         "Course": "CSE220-05",
-        "Lab Day": "MON",
+        "Lab Day": "SUN",
         "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09B-09L"
+        "Lab Room": "09B-08L"
     },
     {
         "Course": "CSE220-06",
-        "Lab Day": "MON",
+        "Lab Day": "SUN",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09B-10L"
+        "Lab Room": "09B-08L"
     },
     {
         "Course": "CSE220-07",
         "Lab Day": "MON",
         "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09B-11L"
+        "Lab Room": "09F-24L"
     },
     {
         "Course": "CSE220-08",
         "Lab Day": "MON",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09B-11L"
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09B-09L"
     },
     {
         "Course": "CSE220-09",
         "Lab Day": "MON",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09B-11L"
+        "Lab Room": "09B-08L"
     },
     {
         "Course": "CSE220-10",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09B-10L"
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09B-09L"
     },
     {
         "Course": "CSE220-11",
         "Lab Day": "MON",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09B-08L"
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09B-09L"
     },
     {
         "Course": "CSE220-12",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09B-10L"
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09B-09L"
     },
     {
         "Course": "CSE220-13",
-        "Lab Day": "SUN",
+        "Lab Day": "MON",
         "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09B-08L"
+        "Lab Room": "09B-10L"
     },
     {
         "Course": "CSE220-14",
         "Lab Day": "SUN",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09B-10L"
+        "Lab Room": "09B-09L"
     },
     {
         "Course": "CSE220-15",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09B-09L"
+    },
+    {
+        "Course": "CSE220-16",
         "Lab Day": "MON",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09B-10L"
+    },
+    {
+        "Course": "CSE220-17",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09B-10L"
+    },
+    {
+        "Course": "CSE220-18",
+        "Lab Day": "SUN",
         "Lab Time (3hr)": "8:00 AM",
         "Lab Room": "09B-10L"
     },
     {
-        "Course": "CSE220-16",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09B-08L"
-    },
-    {
-        "Course": "CSE220-17",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09B-09L"
-    },
-    {
-        "Course": "CSE220-18",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09B-08L"
-    },
-    {
         "Course": "CSE220-19",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09B-09L"
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09B-10L"
     },
     {
         "Course": "CSE220-20",
         "Lab Day": "MON",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09B-09L"
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09B-11L"
     },
     {
         "Course": "CSE220-21",
         "Lab Day": "SUN",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09B-10L"
+        "Lab Room": "09B-11L"
     },
     {
         "Course": "CSE220-22",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09B-08L"
-    },
-    {
-        "Course": "CSE220-23",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09B-09L"
-    },
-    {
-        "Course": "CSE220-24",
         "Lab Day": "MON",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09E-21L"
-    },
-    {
-        "Course": "CSE220-25",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09E-21L"
-    },
-    {
-        "Course": "CSE220-26",
-        "Lab Day": "SUN",
         "Lab Time (3hr)": "11:00 AM",
         "Lab Room": "09B-11L"
     },
     {
-        "Course": "CSE220-27",
+        "Course": "CSE220-23",
         "Lab Day": "MON",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09E-22L"
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09B-11L"
     },
     {
-        "Course": "CSE220-28",
+        "Course": "CSE220-24",
         "Lab Day": "MON",
         "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09F-24L"
+    },
+    {
+        "Course": "CSE220-25",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "8:00 AM",
         "Lab Room": "09E-21L"
     },
     {
         "Course": "CSE221-01",
         "Lab Day": "SAT",
         "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09B-10L"
+        "Lab Room": "09B-08L"
     },
     {
         "Course": "CSE221-02",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09B-10L"
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09F-26L"
     },
     {
         "Course": "CSE221-03",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09B-10L"
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09F-26L"
     },
     {
         "Course": "CSE221-04",
         "Lab Day": "SUN",
-        "Lab Time (3hr)": "8:00 AM",
+        "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "09F-26L"
     },
     {
         "Course": "CSE221-05",
         "Lab Day": "SAT",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09B-11L"
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09B-08L"
     },
     {
         "Course": "CSE221-06",
         "Lab Day": "SAT",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09B-11L"
+        "Lab Room": "09B-10L"
     },
     {
         "Course": "CSE221-07",
         "Lab Day": "SUN",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09F-25L"
-    },
-    {
-        "Course": "CSE221-09",
-        "Lab Day": "SAT",
         "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09E-22L"
+        "Lab Room": "09F-27L"
     },
     {
-        "Course": "CSE221-10",
+        "Course": "CSE221-08",
         "Lab Day": "SUN",
         "Lab Time (3hr)": "11:00 AM",
         "Lab Room": "09F-27L"
     },
     {
-        "Course": "CSE221-11",
+        "Course": "CSE221-09",
         "Lab Day": "SUN",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09F-27L"
+    },
+    {
+        "Course": "CSE221-10",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09B-08L"
+    },
+    {
+        "Course": "CSE221-11",
+        "Lab Day": "SAT",
         "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09F-25L"
+        "Lab Room": "09B-09L"
     },
     {
         "Course": "CSE221-12",
-        "Lab Day": "SUN",
+        "Lab Day": "SAT",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09F-26L"
+        "Lab Room": "09B-09L"
     },
     {
         "Course": "CSE221-13",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09E-22L"
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09B-09L"
     },
     {
         "Course": "CSE221-14",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09E-22L"
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09B-10L"
     },
     {
         "Course": "CSE221-15",
         "Lab Day": "SAT",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09E-21L"
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09B-11L"
     },
     {
         "Course": "CSE221-16",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09B-09L"
-    },
-    {
-        "Course": "CSE221-17",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09E-21L"
-    },
-    {
-        "Course": "CSE221-18",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09E-21L"
-    },
-    {
-        "Course": "CSE221-19",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09B-08L"
-    },
-    {
-        "Course": "CSE221-20",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09E-21L"
-    },
-    {
-        "Course": "CSE221-21",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09F-26L"
-    },
-    {
-        "Course": "CSE221-24",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09B-09L"
-    },
-    {
-        "Course": "CSE221-25",
         "Lab Day": "SAT",
         "Lab Time (3hr)": "11:00 AM",
         "Lab Room": "09B-11L"
     },
     {
-        "Course": "CSE221-26",
+        "Course": "CSE221-17",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09B-10L"
+    },
+    {
+        "Course": "CSE221-18",
         "Lab Day": "SUN",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09E-22L"
-    },
-    {
-        "Course": "CSE221-28",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09E-21L"
-    },
-    {
-        "Course": "CSE221-29",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09B-09L"
-    },
-    {
-        "Course": "CSE250-01",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT10-01L"
-    },
-    {
-        "Course": "CSE250-02",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "FT10-01L"
-    },
-    {
-        "Course": "CSE250-03",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12B-20L"
-    },
-    {
-        "Course": "CSE250-04",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12B-20L"
-    },
-    {
-        "Course": "CSE250-05",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12B-20L"
-    },
-    {
-        "Course": "CSE250-06",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12B-20L"
-    },
-    {
-        "Course": "CSE250-07",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12B-20L"
-    },
-    {
-        "Course": "CSE250-08",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12B-20L"
-    },
-    {
-        "Course": "CSE250-09",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12B-20L"
-    },
-    {
-        "Course": "CSE250-10",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12B-20L"
-    },
-    {
-        "Course": "CSE250-11",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12B-20L"
-    },
-    {
-        "Course": "CSE250-12",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12B-20L"
-    },
-    {
-        "Course": "CSE250-13",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT10-01L"
-    },
-    {
-        "Course": "CSE250-15",
-        "Lab Day": "WED+WED",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "12B-20L"
-    },
-    {
-        "Course": "CSE250-17",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12B-20L"
-    },
-    {
-        "Course": "CSE250-18",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12B-20L"
-    },
-    {
-        "Course": "CSE250-19",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT10-01L"
-    },
-    {
-        "Course": "CSE250-20",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "FT10-01L"
-    },
-    {
-        "Course": "CSE250-21",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT10-01L"
-    },
-    {
-        "Course": "CSE250-22",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "FT10-01L"
-    },
-    {
-        "Course": "CSE250-23",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT10-01L"
-    },
-    {
-        "Course": "CSE250-24",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT10-01L"
-    },
-    {
-        "Course": "CSE251-01",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT10-01L"
-    },
-    {
-        "Course": "CSE251-02",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT10-01L"
-    },
-    {
-        "Course": "CSE251-03",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "FT10-02L"
-    },
-    {
-        "Course": "CSE251-04",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT10-02L"
-    },
-    {
-        "Course": "CSE251-05",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT10-02L"
-    },
-    {
-        "Course": "CSE251-06",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT10-02L"
-    },
-    {
-        "Course": "CSE251-07",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT10-02L"
-    },
-    {
-        "Course": "CSE251-08",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT10-02L"
-    },
-    {
-        "Course": "CSE251-09",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "FT10-02L"
-    },
-    {
-        "Course": "CSE251-10",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT10-02L"
-    },
-    {
-        "Course": "CSE251-11",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT10-02L"
-    },
-    {
-        "Course": "CSE251-12",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT10-02L"
-    },
-    {
-        "Course": "CSE251-15",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT10-03L"
-    },
-    {
-        "Course": "CSE251-16",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT10-03L"
-    },
-    {
-        "Course": "CSE251-17",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT10-03L"
-    },
-    {
-        "Course": "CSE251-18",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT10-01L"
-    },
-    {
-        "Course": "CSE251-19",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT10-03L"
-    },
-    {
-        "Course": "CSE251-20",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "FT10-03L"
-    },
-    {
-        "Course": "CSE251-21",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT10-03L"
-    },
-    {
-        "Course": "CSE251-22",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT10-03L"
-    },
-    {
-        "Course": "CSE251-23",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "FT10-03L"
-    },
-    {
-        "Course": "CSE251-24",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "FT10-03L"
-    },
-    {
-        "Course": "CSE260-01",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT10-04L"
-    },
-    {
-        "Course": "CSE260-02",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "FT10-04L"
-    },
-    {
-        "Course": "CSE260-03",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "FT08-04L"
-    },
-    {
-        "Course": "CSE260-04",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT08-04L"
-    },
-    {
-        "Course": "CSE260-05",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT10-04L"
-    },
-    {
-        "Course": "CSE260-06",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "FT08-04L"
-    },
-    {
-        "Course": "CSE260-07",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT10-04L"
-    },
-    {
-        "Course": "CSE260-08",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "FT10-04L"
-    },
-    {
-        "Course": "CSE260-09",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT10-04L"
-    },
-    {
-        "Course": "CSE260-10",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "FT10-04L"
-    },
-    {
-        "Course": "CSE260-11",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT10-04L"
-    },
-    {
-        "Course": "CSE260-12",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT08-04L"
-    },
-    {
-        "Course": "CSE260-13",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT08-04L"
-    },
-    {
-        "Course": "CSE260-14",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT10-04L"
-    },
-    {
-        "Course": "CSE260-15",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "FT08-04L"
-    },
-    {
-        "Course": "CSE260-16",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT08-04L"
-    },
-    {
-        "Course": "CSE260-17",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT10-04L"
-    },
-    {
-        "Course": "CSE260-18",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "FT10-04L"
-    },
-    {
-        "Course": "CSE260-19",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "FT08-04L"
-    },
-    {
-        "Course": "CSE260-20",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "FT08-04L"
-    },
-    {
-        "Course": "CSE260-21",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT08-04L"
-    },
-    {
-        "Course": "CSE260-22",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT08-04L"
-    },
-    {
-        "Course": "CSE260-23",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT08-04L"
-    },
-    {
-        "Course": "CSE260-24",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT10-03L"
-    },
-    {
-        "Course": "CSE260-25",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT08-04L"
-    },
-    {
-        "Course": "CSE260-26",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "FT10-04L"
-    },
-    {
-        "Course": "CSE260-27",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT10-04L"
-    },
-    {
-        "Course": "CSE260-28",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT08-04L"
-    },
-    {
-        "Course": "CSE260-29",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "FT10-04L"
-    },
-    {
-        "Course": "CSE260-30",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "FT08-04L"
-    },
-    {
-        "Course": "CSE260-31",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT10-04L"
-    },
-    {
-        "Course": "CSE260-32",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT08-04L"
-    },
-    {
-        "Course": "CSE260-33",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT10-04L"
-    },
-    {
-        "Course": "CSE260-34",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT10-03L"
-    },
-    {
-        "Course": "CSE260-35",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT10-04L"
-    },
-    {
-        "Course": "CSE260-36",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT08-04L"
-    },
-    {
-        "Course": "CSE260-37",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT10-03L"
-    },
-    {
-        "Course": "CSE260-38",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT08-04L"
-    },
-    {
-        "Course": "CSE260-39",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT10-04L"
-    },
-    {
-        "Course": "CSE260-40",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "FT10-02L"
-    },
-    {
-        "Course": "CSE321-03",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "10G-32L"
-    },
-    {
-        "Course": "CSE321-04",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12D-26L"
-    },
-    {
-        "Course": "CSE321-05",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12D-26L"
-    },
-    {
-        "Course": "CSE321-06",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09F-25L"
-    },
-    {
-        "Course": "CSE321-07",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09F-25L"
-    },
-    {
-        "Course": "CSE321-08",
-        "Lab Day": "THU",
         "Lab Time (3hr)": "8:00 AM",
         "Lab Room": "09F-25L"
     },
     {
-        "Course": "CSE321-09",
-        "Lab Day": "WED",
+        "Course": "CSE221-19",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09F-25L"
+    },
+    {
+        "Course": "CSE221-20",
+        "Lab Day": "SUN",
         "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "09F-25L"
     },
     {
-        "Course": "CSE321-10",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "10G-32L"
-    },
-    {
-        "Course": "CSE321-11",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12D-26L"
-    },
-    {
-        "Course": "CSE321-12",
-        "Lab Day": "TUE",
+        "Course": "CSE221-21",
+        "Lab Day": "SUN",
         "Lab Time (3hr)": "8:00 AM",
         "Lab Room": "09F-24L"
     },
     {
-        "Course": "CSE321-13",
+        "Course": "CSE221-22",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09B-11L"
+    },
+    {
+        "Course": "CSE221-23",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09F-24L"
+    },
+    {
+        "Course": "CSE221-24",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09E-21L"
+    },
+    {
+        "Course": "CSE221-25",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09E-21L"
+    },
+    {
+        "Course": "CSE221-26",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09B-11L"
+    },
+    {
+        "Course": "CSE250-01A",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE250-01B",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE250-02A",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE250-02B",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE250-03A",
         "Lab Day": "SAT",
         "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09F-25L"
+        "Lab Room": "12B-20L"
     },
     {
-        "Course": "CSE321-14",
+        "Course": "CSE250-03B",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE250-04A",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE250-04B",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE250-05A",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE250-05B",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE250-06A",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE250-06B",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE250-07A",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE250-07B",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE250-08A",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE250-08B",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE250-09A",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE250-09B",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE250-10A",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE250-10B",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE250-11A",
         "Lab Day": "WED",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09F-25L"
+        "Lab Room": "12B-20L"
     },
     {
-        "Course": "CSE321-15",
+        "Course": "CSE250-11B",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE250-12A",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE250-12B",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE250-13A",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE250-13B",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE251-01A",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE251-01B",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE251-02A",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT10-01L"
+    },
+    {
+        "Course": "CSE251-02B",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT10-02L"
+    },
+    {
+        "Course": "CSE251-03A",
         "Lab Day": "THU",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE251-03B",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE251-04A",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT10-01L"
+    },
+    {
+        "Course": "CSE251-04B",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT10-02L"
+    },
+    {
+        "Course": "CSE251-05A",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT10-01L"
+    },
+    {
+        "Course": "CSE251-05B",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT10-02L"
+    },
+    {
+        "Course": "CSE251-06A",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT10-01L"
+    },
+    {
+        "Course": "CSE251-06B",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT10-02L"
+    },
+    {
+        "Course": "CSE251-07A",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT10-01L"
+    },
+    {
+        "Course": "CSE251-07B",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT10-03L"
+    },
+    {
+        "Course": "CSE251-08A",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT10-01L"
+    },
+    {
+        "Course": "CSE251-08B",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT10-02L"
+    },
+    {
+        "Course": "CSE251-09A",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT10-01L"
+    },
+    {
+        "Course": "CSE251-09B",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT10-02L"
+    },
+    {
+        "Course": "CSE251-10A",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT10-01L"
+    },
+    {
+        "Course": "CSE251-10B",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT10-03L"
+    },
+    {
+        "Course": "CSE251-11A",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT10-01L"
+    },
+    {
+        "Course": "CSE251-11B",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT10-02L"
+    },
+    {
+        "Course": "CSE260-01A",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT10-04L"
+    },
+    {
+        "Course": "CSE260-01B",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT08-04L"
+    },
+    {
+        "Course": "CSE260-02A",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT10-04L"
+    },
+    {
+        "Course": "CSE260-02B",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT08-04L"
+    },
+    {
+        "Course": "CSE260-03A",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT10-04L"
+    },
+    {
+        "Course": "CSE260-03B",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT08-04L"
+    },
+    {
+        "Course": "CSE260-04A",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT10-04L"
+    },
+    {
+        "Course": "CSE260-04B",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT08-04L"
+    },
+    {
+        "Course": "CSE260-05A",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT10-04L"
+    },
+    {
+        "Course": "CSE260-05B",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT08-04L"
+    },
+    {
+        "Course": "CSE260-06A",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT10-02L"
+    },
+    {
+        "Course": "CSE260-06B",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT10-03L"
+    },
+    {
+        "Course": "CSE260-07A",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT10-04L"
+    },
+    {
+        "Course": "CSE260-07B",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT08-04L"
+    },
+    {
+        "Course": "CSE260-08A",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT10-04L"
+    },
+    {
+        "Course": "CSE260-08B",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT08-04L"
+    },
+    {
+        "Course": "CSE260-09A",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT10-04L"
+    },
+    {
+        "Course": "CSE260-09B",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT08-04L"
+    },
+    {
+        "Course": "CSE260-10A",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT10-04L"
+    },
+    {
+        "Course": "CSE260-10B",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT08-04L"
+    },
+    {
+        "Course": "CSE260-11A",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT10-02L"
+    },
+    {
+        "Course": "CSE260-11B",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT10-03L"
+    },
+    {
+        "Course": "CSE260-12A",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT10-04L"
+    },
+    {
+        "Course": "CSE260-12B",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT08-04L"
+    },
+    {
+        "Course": "CSE260-13A",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT10-02L"
+    },
+    {
+        "Course": "CSE260-13B",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT10-03L"
+    },
+    {
+        "Course": "CSE260-14A",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT10-04L"
+    },
+    {
+        "Course": "CSE260-14B",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT08-04L"
+    },
+    {
+        "Course": "CSE260-15A",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT10-04L"
+    },
+    {
+        "Course": "CSE260-15B",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT08-04L"
+    },
+    {
+        "Course": "CSE260-16A",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT10-02L"
+    },
+    {
+        "Course": "CSE260-16B",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT10-03L"
+    },
+    {
+        "Course": "CSE260-17A",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT10-02L"
+    },
+    {
+        "Course": "CSE260-17B",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT10-03L"
+    },
+    {
+        "Course": "CSE260-18A",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT10-02L"
+    },
+    {
+        "Course": "CSE260-18B",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT10-03L"
+    },
+    {
+        "Course": "CSE260-19A",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT10-04L"
+    },
+    {
+        "Course": "CSE260-19B",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT08-04L"
+    },
+    {
+        "Course": "CSE260-20A",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT10-04L"
+    },
+    {
+        "Course": "CSE260-20B",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT08-04L"
+    },
+    {
+        "Course": "CSE260-21A",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT10-04L"
+    },
+    {
+        "Course": "CSE260-21B",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT08-04L"
+    },
+    {
+        "Course": "CSE260-22A",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT10-02L"
+    },
+    {
+        "Course": "CSE260-22B",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT10-03L"
+    },
+    {
+        "Course": "CSE260-23A",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT10-02L"
+    },
+    {
+        "Course": "CSE260-23B",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT10-03L"
+    },
+    {
+        "Course": "CSE260-24A",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT10-04L"
+    },
+    {
+        "Course": "CSE260-24B",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT08-04L"
+    },
+    {
+        "Course": "CSE260-25A",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT10-04L"
+    },
+    {
+        "Course": "CSE260-25B",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT08-04L"
+    },
+    {
+        "Course": "CSE260-26A",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT10-02L"
+    },
+    {
+        "Course": "CSE260-26B",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT10-03L"
+    },
+    {
+        "Course": "CSE260-27A",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT10-04L"
+    },
+    {
+        "Course": "CSE260-27B",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT08-04L"
+    },
+    {
+        "Course": "CSE321-01",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12D-27L"
+    },
+    {
+        "Course": "CSE321-02",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12D-26L"
+    },
+    {
+        "Course": "CSE321-03",
+        "Lab Day": "SUN",
         "Lab Time (3hr)": "11:00 AM",
         "Lab Room": "12D-26L"
     },
     {
-        "Course": "CSE321-16",
-        "Lab Day": "WED",
+        "Course": "CSE321-04",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12D-27L"
+    },
+    {
+        "Course": "CSE321-05",
+        "Lab Day": "MON",
         "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09F-25L"
+        "Lab Room": "12D-27L"
+    },
+    {
+        "Course": "CSE321-06",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12D-26L"
+    },
+    {
+        "Course": "CSE321-07",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12D-26L"
+    },
+    {
+        "Course": "CSE321-08",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "12D-26L"
+    },
+    {
+        "Course": "CSE321-09",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "12D-26L"
+    },
+    {
+        "Course": "CSE321-10",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12D-27L"
+    },
+    {
+        "Course": "CSE321-11",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12D-27L"
+    },
+    {
+        "Course": "CSE321-12",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "12D-27L"
+    },
+    {
+        "Course": "CSE321-13",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12D-27L"
+    },
+    {
+        "Course": "CSE321-14",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12D-27L"
+    },
+    {
+        "Course": "CSE321-15",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12D-27L"
+    },
+    {
+        "Course": "CSE321-16",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12D-27L"
     },
     {
         "Course": "CSE321-17",
-        "Lab Day": "SAT",
+        "Lab Day": "MON",
         "Lab Time (3hr)": "11:00 AM",
         "Lab Room": "12D-26L"
     },
     {
         "Course": "CSE321-18",
         "Lab Day": "WED",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "12D-26L"
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12D-27L"
     },
     {
         "Course": "CSE321-19",
-        "Lab Day": "SAT",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12D-26L"
+    },
+    {
+        "Course": "CSE321-20",
+        "Lab Day": "THU",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09F-25L"
+        "Lab Room": "12D-26L"
     },
     {
         "Course": "CSE321-21",
-        "Lab Day": "THU",
+        "Lab Day": "TUE",
         "Lab Time (3hr)": "8:00 AM",
         "Lab Room": "12D-26L"
     },
     {
         "Course": "CSE321-22",
-        "Lab Day": "SUN",
+        "Lab Day": "TUE",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09F-24L"
+        "Lab Room": "12D-26L"
     },
     {
         "Course": "CSE321-23",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "11:00 AM",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "12D-26L"
     },
     {
         "Course": "CSE321-24",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09F-25L"
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12D-27L"
     },
     {
         "Course": "CSE321-25",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12D-26L"
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12D-27L"
     },
     {
         "Course": "CSE321-26",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09F-25L"
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "12D-26L"
     },
     {
         "Course": "CSE321-27",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09F-25L"
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12D-26L"
     },
     {
         "Course": "CSE321-28",
-        "Lab Day": "SUN",
+        "Lab Day": "THU",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09F-25L"
+        "Lab Room": "12D-26L"
     },
     {
         "Course": "CSE321-29",
-        "Lab Day": "MON",
+        "Lab Day": "WED",
         "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09F-25L"
+        "Lab Room": "12D-26L"
     },
     {
         "Course": "CSE321-30",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09F-25L"
-    },
-    {
-        "Course": "CSE321-31",
-        "Lab Day": "MON",
+        "Lab Day": "WED",
         "Lab Time (3hr)": "11:00 AM",
         "Lab Room": "12D-26L"
     },
     {
-        "Course": "CSE321-32",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09F-25L"
-    },
-    {
-        "Course": "CSE321-33",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "8:00 AM",
+        "Course": "CSE321-31",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "12D-26L"
     },
     {
         "Course": "CSE330-01",
-        "Lab Day": "SUN",
+        "Lab Day": "SAT",
         "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "10G-34L"
+        "Lab Room": "09F-27L"
     },
     {
         "Course": "CSE330-02",
         "Lab Day": "TUE",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "10G-34L"
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09E-21L"
     },
     {
         "Course": "CSE330-03",
         "Lab Day": "TUE",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "10G-34L"
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09E-21L"
     },
     {
         "Course": "CSE330-04",
         "Lab Day": "SAT",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12F-30L"
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09F-27L"
     },
     {
         "Course": "CSE330-05",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "10G-34L"
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09F-26L"
     },
     {
         "Course": "CSE330-06",
         "Lab Day": "SAT",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "10G-34L"
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09F-27L"
     },
     {
         "Course": "CSE330-07",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "10G-34L"
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09E-22L"
     },
     {
         "Course": "CSE330-08",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "10G-34L"
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09E-22L"
     },
     {
         "Course": "CSE330-09",
-        "Lab Day": "THU",
+        "Lab Day": "SUN",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "10G-34L"
+        "Lab Room": "09E-22L"
     },
     {
         "Course": "CSE330-10",
         "Lab Day": "SUN",
         "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12F-30L"
+        "Lab Room": "12F-32L"
     },
     {
         "Course": "CSE330-11",
         "Lab Day": "MON",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "10G-34L"
+        "Lab Room": "09E-21L"
     },
     {
         "Course": "CSE330-12",
         "Lab Day": "MON",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12F-30L"
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09F-25L"
     },
     {
         "Course": "CSE330-13",
-        "Lab Day": "TUE",
+        "Lab Day": "MON",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "10G-34L"
+        "Lab Room": "09E-21L"
     },
     {
         "Course": "CSE330-14",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "10G-34L"
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09E-22L"
     },
     {
         "Course": "CSE330-15",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "10G-34L"
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09F-25L"
     },
     {
         "Course": "CSE330-16",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12F-30L"
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09E-22L"
     },
     {
         "Course": "CSE330-17",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "10G-34L"
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09E-22L"
     },
     {
         "Course": "CSE330-18",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12F-30L"
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09E-22L"
     },
     {
         "Course": "CSE330-19",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12F-30L"
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09F-27L"
     },
     {
         "Course": "CSE330-20",
         "Lab Day": "WED",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12F-30L"
+        "Lab Room": "09F-27L"
     },
     {
         "Course": "CSE330-21",
-        "Lab Day": "SUN",
+        "Lab Day": "WED",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "10G-34L"
+        "Lab Room": "09F-26L"
     },
     {
         "Course": "CSE330-22",
         "Lab Day": "TUE",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12F-30L"
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09B-11L"
     },
     {
         "Course": "CSE330-23",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "10G-34L"
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09B-11L"
     },
     {
         "Course": "CSE330-24",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "10G-34L"
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09F-25L"
     },
     {
         "Course": "CSE330-25",
-        "Lab Day": "WED",
+        "Lab Day": "TUE",
         "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12F-30L"
-    },
-    {
-        "Course": "CSE330-26",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12F-30L"
-    },
-    {
-        "Course": "CSE330-27",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "10G-34L"
-    },
-    {
-        "Course": "CSE330-28",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "10G-34L"
-    },
-    {
-        "Course": "CSE330-29",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12F-30L"
-    },
-    {
-        "Course": "CSE330-30",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "10E-27L"
-    },
-    {
-        "Course": "CSE330-31",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "10E-27L"
+        "Lab Room": "12F-32L"
     },
     {
         "Course": "CSE341-01",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "10G-32L"
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09E-22L"
     },
     {
         "Course": "CSE341-02",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12F-31L"
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09E-22L"
     },
     {
         "Course": "CSE341-03",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12F-31L"
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09F-27L"
     },
     {
         "Course": "CSE341-04",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12F-31L"
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09E-21L"
     },
     {
         "Course": "CSE341-05",
         "Lab Day": "SUN",
-        "Lab Time (3hr)": "11:00 AM",
+        "Lab Time (3hr)": "8:00 AM",
         "Lab Room": "12F-31L"
     },
     {
         "Course": "CSE341-06",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "12F-31L"
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09F-25L"
     },
     {
         "Course": "CSE341-07",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12F-31L"
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09F-26L"
     },
     {
         "Course": "CSE341-08",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12F-31L"
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09F-25L"
     },
     {
         "Course": "CSE341-09",
-        "Lab Day": "SAT",
+        "Lab Day": "WED",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12F-31L"
+        "Lab Room": "10G-33L"
     },
     {
-        "Course": "CSE350-01",
+        "Course": "CSE341-10",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "10G-33L"
+    },
+    {
+        "Course": "CSE341-11",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09E-22L"
+    },
+    {
+        "Course": "CSE350-01A",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT10-01L"
+    },
+    {
+        "Course": "CSE350-01B",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT10-02L"
+    },
+    {
+        "Course": "CSE350-02A",
         "Lab Day": "SAT",
         "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "12B-20L"
     },
     {
-        "Course": "CSE350-02",
+        "Course": "CSE350-02B",
         "Lab Day": "SAT",
         "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "12B-20L"
     },
     {
-        "Course": "CSE350-03",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12B-20L"
+        "Course": "CSE350-03A",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT10-01L"
     },
     {
-        "Course": "CSE350-04",
+        "Course": "CSE350-03B",
         "Lab Day": "MON",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12B-20L"
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT10-03L"
     },
     {
-        "Course": "CSE350-05",
+        "Course": "CSE350-04A",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT10-03L"
+    },
+    {
+        "Course": "CSE350-04B",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT10-01L"
+    },
+    {
+        "Course": "CSE350-05A",
         "Lab Day": "THU",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12B-20L"
+        "Lab Room": "FT10-03L"
     },
     {
-        "Course": "CSE350-06",
+        "Course": "CSE350-05B",
         "Lab Day": "THU",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12B-20L"
+        "Lab Room": "FT10-01L"
     },
     {
-        "Course": "CSE350-07",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "12B-20L"
-    },
-    {
-        "Course": "CSE350-08",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "12B-20L"
-    },
-    {
-        "Course": "CSE350-09",
+        "Course": "CSE350-06A",
         "Lab Day": "SUN",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "12B-20L"
+        "Lab Room": "FT10-01L"
     },
     {
-        "Course": "CSE350-10",
+        "Course": "CSE350-06B",
         "Lab Day": "SUN",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "12B-20L"
-    },
-    {
-        "Course": "CSE350-11",
-        "Lab Day": "THU",
         "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "FT10-02L"
     },
     {
-        "Course": "CSE350-12",
+        "Course": "CSE350-07A",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT10-01L"
+    },
+    {
+        "Course": "CSE350-07B",
         "Lab Day": "MON",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT10-01L"
+    },
+    {
+        "Course": "CSE350-08A",
+        "Lab Day": "TUE",
         "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "12B-20L"
     },
     {
-        "Course": "CSE350-13",
-        "Lab Day": "MON",
+        "Course": "CSE350-08B",
+        "Lab Day": "TUE",
         "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "12B-20L"
     },
     {
-        "Course": "CSE350-14",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12B-20L"
-    },
-    {
-        "Course": "CSE350-15",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12B-20L"
-    },
-    {
-        "Course": "CSE350-16",
+        "Course": "CSE350-09A",
         "Lab Day": "SUN",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT10-03L"
+    },
+    {
+        "Course": "CSE350-09B",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "FT10-03L"
+    },
+    {
+        "Course": "CSE350-10A",
+        "Lab Day": "WED",
         "Lab Time (3hr)": "8:00 AM",
         "Lab Room": "12B-20L"
     },
     {
-        "Course": "CSE350-17",
-        "Lab Day": "SUN",
+        "Course": "CSE350-10B",
+        "Lab Day": "WED",
         "Lab Time (3hr)": "8:00 AM",
         "Lab Room": "12B-20L"
+    },
+    {
+        "Course": "CSE350-11A",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "FT10-01L"
+    },
+    {
+        "Course": "CSE350-11B",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "FT10-03L"
     },
     {
         "Course": "CSE360-01",
-        "Lab Day": "SUN",
+        "Lab Day": "TUE",
         "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "10G-33L"
     },
     {
         "Course": "CSE360-02",
-        "Lab Day": "SUN",
+        "Lab Day": "SAT",
         "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "10G-33L"
     },
     {
         "Course": "CSE360-03",
-        "Lab Day": "TUE",
+        "Lab Day": "THU",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "10G-32L"
+        "Lab Room": "10G-33L"
+    },
+    {
+        "Course": "CSE360-04",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "10G-33L"
     },
     {
         "Course": "CSE360-05",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "2:00 PM",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "11:00 AM",
         "Lab Room": "10G-33L"
     },
     {
@@ -1699,133 +1801,139 @@
     },
     {
         "Course": "CSE360-07",
-        "Lab Day": "SAT",
+        "Lab Day": "SUN",
         "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "10G-33L"
     },
     {
         "Course": "CSE360-08",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "10G-33L"
-    },
-    {
-        "Course": "CSE360-09",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "10G-33L"
-    },
-    {
-        "Course": "CSE360-10",
         "Lab Day": "SAT",
         "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "10G-33L"
     },
     {
+        "Course": "CSE360-09",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "10G-33L"
+    },
+    {
         "Course": "CSE370-01",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12F-32L"
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12F-30L"
     },
     {
         "Course": "CSE370-02",
         "Lab Day": "WED",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12F-32L"
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12F-30L"
     },
     {
         "Course": "CSE370-03",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12F-32L"
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12F-31L"
     },
     {
         "Course": "CSE370-04",
         "Lab Day": "TUE",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12F-32L"
+        "Lab Room": "12F-31L"
     },
     {
         "Course": "CSE370-05",
-        "Lab Day": "WED",
+        "Lab Day": "TUE",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "12D-27L"
+        "Lab Room": "12F-31L"
     },
     {
         "Course": "CSE370-06",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12F-32L"
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "12F-30L"
     },
     {
         "Course": "CSE370-07",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12F-30L"
+    },
+    {
+        "Course": "CSE370-08",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12F-30L"
+    },
+    {
+        "Course": "CSE370-09",
         "Lab Day": "THU",
         "Lab Time (3hr)": "11:00 AM",
         "Lab Room": "12F-30L"
     },
     {
-        "Course": "CSE370-08",
+        "Course": "CSE370-10",
         "Lab Day": "THU",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "12F-32L"
-    },
-    {
-        "Course": "CSE370-10",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12F-32L"
+        "Lab Room": "12F-30L"
     },
     {
         "Course": "CSE370-11",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12F-32L"
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12F-31L"
     },
     {
         "Course": "CSE370-12",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "12F-31L"
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12F-30L"
     },
     {
         "Course": "CSE370-13",
-        "Lab Day": "TUE",
+        "Lab Day": "SUN",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "12F-31L"
+        "Lab Room": "12F-30L"
     },
     {
         "Course": "CSE370-14",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "12F-32L"
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12F-30L"
     },
     {
         "Course": "CSE370-15",
-        "Lab Day": "MON",
+        "Lab Day": "SAT",
         "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12F-32L"
+        "Lab Room": "12F-31L"
     },
     {
         "Course": "CSE370-16",
-        "Lab Day": "WED",
+        "Lab Day": "SAT",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12F-32L"
+        "Lab Room": "12F-31L"
     },
     {
         "Course": "CSE370-17",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12F-32L"
-    },
-    {
-        "Course": "CSE370-18",
         "Lab Day": "SAT",
         "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "12F-31L"
     },
     {
+        "Course": "CSE370-18",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12F-32L"
+    },
+    {
+        "Course": "CSE370-19",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12F-32L"
+    },
+    {
         "Course": "CSE370-20",
-        "Lab Day": "TUE",
+        "Lab Day": "MON",
         "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "12F-32L"
     },
@@ -1833,7 +1941,19 @@
         "Course": "CSE370-21",
         "Lab Day": "MON",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "12F-32L"
+        "Lab Room": "09F-27L"
+    },
+    {
+        "Course": "CSE370-22",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "10G-33L"
+    },
+    {
+        "Course": "CSE370-23",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE391-01",
@@ -1844,596 +1964,608 @@
     {
         "Course": "CSE402-01",
         "Lab Day": "THU",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09F-24L"
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09E-21L"
     },
     {
         "Course": "CSE420-01",
-        "Lab Day": "SUN",
+        "Lab Day": "THU",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "12D-27L"
+        "Lab Room": "12F-32L"
     },
     {
         "Course": "CSE420-02",
-        "Lab Day": "SUN",
+        "Lab Day": "THU",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "12D-27L"
+        "Lab Room": "12F-32L"
     },
     {
         "Course": "CSE420-03",
-        "Lab Day": "TUE",
+        "Lab Day": "SAT",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09E-21L"
+        "Lab Room": "12F-32L"
     },
     {
         "Course": "CSE420-04",
-        "Lab Day": "TUE",
+        "Lab Day": "SAT",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09E-21L"
+        "Lab Room": "12F-32L"
     },
     {
         "Course": "CSE420-05",
         "Lab Day": "SAT",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "10G-32L"
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12F-32L"
     },
     {
         "Course": "CSE420-06",
-        "Lab Day": "THU",
+        "Lab Day": "SAT",
         "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09E-21L"
+        "Lab Room": "12F-32L"
     },
     {
         "Course": "CSE420-07",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "10G-32L"
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "12F-32L"
     },
     {
         "Course": "CSE420-08",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "10E-27L"
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "12F-32L"
     },
     {
         "Course": "CSE420-09",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "10E-27L"
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12F-32L"
     },
     {
         "Course": "CSE420-10",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09E-21L"
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12F-32L"
     },
     {
         "Course": "CSE420-11",
         "Lab Day": "TUE",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09E-21L"
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12F-32L"
     },
     {
         "Course": "CSE420-12",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09E-21L"
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12F-32L"
     },
     {
         "Course": "CSE420-13",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09F-24L"
-    },
-    {
-        "Course": "CSE420-14",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09F-24L"
-    },
-    {
-        "Course": "CSE420-15",
         "Lab Day": "MON",
         "Lab Time (3hr)": "8:00 AM",
         "Lab Room": "12F-31L"
     },
     {
-        "Course": "CSE421-01",
-        "Lab Day": "TUE",
+        "Course": "CSE420-14",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12F-31L"
+    },
+    {
+        "Course": "CSE420-15",
+        "Lab Day": "MON",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12D-27L"
+        "Lab Room": "12F-31L"
+    },
+    {
+        "Course": "CSE420-16",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12F-31L"
+    },
+    {
+        "Course": "CSE420-17",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12F-31L"
+    },
+    {
+        "Course": "CSE420-18",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12F-31L"
+    },
+    {
+        "Course": "CSE420-19",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12F-32L"
+    },
+    {
+        "Course": "CSE420-20",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12F-32L"
+    },
+    {
+        "Course": "CSE421-01",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09F-25L"
     },
     {
         "Course": "CSE421-02",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12D-27L"
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09F-25L"
     },
     {
         "Course": "CSE421-03",
         "Lab Day": "SAT",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12D-27L"
+        "Lab Room": "09F-25L"
     },
     {
         "Course": "CSE421-04",
-        "Lab Day": "SAT",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09F-25L"
+    },
+    {
+        "Course": "CSE421-05",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09F-25L"
+    },
+    {
+        "Course": "CSE421-06",
+        "Lab Day": "THU",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12D-27L"
+        "Lab Room": "09F-25L"
     },
     {
         "Course": "CSE421-07",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12D-27L"
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09F-25L"
     },
     {
         "Course": "CSE421-08",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12D-27L"
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09F-25L"
     },
     {
         "Course": "CSE421-09",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12D-27L"
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09F-25L"
     },
     {
         "Course": "CSE421-10",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12D-27L"
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE421-11",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12D-27L"
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE421-12",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12D-27L"
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09E-22L"
     },
     {
         "Course": "CSE421-13",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "12D-26L"
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09E-22L"
     },
     {
         "Course": "CSE421-14",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "12D-26L"
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09E-22L"
     },
     {
         "Course": "CSE421-15",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12D-27L"
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE421-16",
-        "Lab Day": "THU",
+        "Lab Day": "SUN",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12D-27L"
+        "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE421-17",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12D-27L"
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09F-25L"
     },
     {
         "Course": "CSE421-18",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12D-27L"
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09F-25L"
     },
     {
         "Course": "CSE421-19",
         "Lab Day": "WED",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12D-27L"
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09F-25L"
     },
     {
         "Course": "CSE421-20",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12D-27L"
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09F-25L"
     },
     {
         "Course": "CSE421-21",
-        "Lab Day": "WED",
+        "Lab Day": "THU",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12D-27L"
+        "Lab Room": "09F-25L"
     },
     {
         "Course": "CSE421-22",
-        "Lab Day": "THU",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09E-22L"
+    },
+    {
+        "Course": "CSE421-23",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09E-22L"
+    },
+    {
+        "Course": "CSE421-24",
+        "Lab Day": "MON",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12D-27L"
+        "Lab Room": "09E-22L"
+    },
+    {
+        "Course": "CSE421-25",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09F-25L"
+    },
+    {
+        "Course": "CSE421-26",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09F-25L"
     },
     {
         "Course": "CSE422-01",
         "Lab Day": "SUN",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "10E-27L"
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "10G-34L"
     },
     {
         "Course": "CSE422-02",
         "Lab Day": "SUN",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "10G-33L"
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "10G-34L"
     },
     {
         "Course": "CSE422-03",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "10E-27L"
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "10G-34L"
     },
     {
         "Course": "CSE422-04",
         "Lab Day": "SUN",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "12F-30L"
+        "Lab Room": "10G-34L"
     },
     {
         "Course": "CSE422-05",
-        "Lab Day": "WED",
+        "Lab Day": "MON",
         "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09F-27L"
+        "Lab Room": "10G-34L"
     },
     {
         "Course": "CSE422-06",
         "Lab Day": "MON",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09F-27L"
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "10G-34L"
     },
     {
         "Course": "CSE422-07",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "10E-27L"
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "10G-34L"
     },
     {
         "Course": "CSE422-08",
         "Lab Day": "WED",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09F-26L"
-    },
-    {
-        "Course": "CSE422-09",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "11:00 AM",
+        "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "09F-27L"
     },
     {
+        "Course": "CSE422-09",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "10G-34L"
+    },
+    {
         "Course": "CSE422-10",
-        "Lab Day": "WED",
+        "Lab Day": "THU",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09F-26L"
+        "Lab Room": "10G-34L"
     },
     {
         "Course": "CSE422-11",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09F-26L"
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "10G-34L"
     },
     {
         "Course": "CSE422-12",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09F-26L"
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09F-27L"
     },
     {
         "Course": "CSE422-13",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "11:00 AM",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "09F-26L"
     },
     {
         "Course": "CSE422-14",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09F-26L"
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE422-15",
         "Lab Day": "SAT",
         "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09F-27L"
+        "Lab Room": "10G-34L"
     },
     {
         "Course": "CSE422-16",
-        "Lab Day": "WED",
+        "Lab Day": "SAT",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09F-26L"
+        "Lab Room": "10G-34L"
     },
     {
         "Course": "CSE422-17",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09F-27L"
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "10G-34L"
     },
     {
         "Course": "CSE422-18",
         "Lab Day": "TUE",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "10E-27L"
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "10G-34L"
     },
     {
         "Course": "CSE422-19",
-        "Lab Day": "THU",
+        "Lab Day": "SAT",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09B-11L"
+        "Lab Room": "10G-34L"
     },
     {
         "Course": "CSE422-20",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09F-25L"
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "10G-34L"
     },
     {
         "Course": "CSE422-21",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09F-26L"
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "10G-34L"
     },
     {
         "Course": "CSE422-22",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "10E-27L"
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09F-24L"
     },
     {
         "Course": "CSE422-23",
-        "Lab Day": "WED",
+        "Lab Day": "SAT",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09F-27L"
+        "Lab Room": "10G-32L"
     },
     {
         "Course": "CSE422-24",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09F-26L"
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "10G-34L"
     },
     {
         "Course": "CSE422-25",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09F-26L"
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09F-27L"
     },
     {
         "Course": "CSE422-26",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09F-27L"
-    },
-    {
-        "Course": "CSE422-27",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09F-26L"
-    },
-    {
-        "Course": "CSE422-28",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09F-26L"
-    },
-    {
-        "Course": "CSE422-29",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09F-27L"
-    },
-    {
-        "Course": "CSE422-30",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09F-26L"
-    },
-    {
-        "Course": "CSE422-31",
         "Lab Day": "SAT",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09F-27L"
-    },
-    {
-        "Course": "CSE422-32",
-        "Lab Day": "THU",
         "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09F-26L"
+        "Lab Room": "09F-24L"
     },
     {
         "Course": "CSE423-01",
-        "Lab Day": "SAT",
+        "Lab Day": "TUE",
         "Lab Time (3hr)": "8:00 AM",
         "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE423-02",
-        "Lab Day": "SAT",
+        "Lab Day": "TUE",
         "Lab Time (3hr)": "8:00 AM",
         "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE423-03",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09B-11L"
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE423-04",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12D-27L"
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE423-05",
-        "Lab Day": "SUN",
+        "Lab Day": "SAT",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12D-27L"
+        "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE423-06",
         "Lab Day": "SAT",
-        "Lab Time (3hr)": "2:00 PM",
+        "Lab Time (3hr)": "11:00 AM",
         "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE423-07",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09F-24L"
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE423-08",
-        "Lab Day": "MON",
+        "Lab Day": "TUE",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09F-24L"
+        "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE423-09",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "2:00 PM",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "11:00 AM",
         "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE423-10",
-        "Lab Day": "THU",
+        "Lab Day": "SUN",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09F-24L"
+        "Lab Room": "12F-31L"
     },
     {
         "Course": "CSE423-11",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "12F-30L"
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12F-31L"
     },
     {
         "Course": "CSE423-12",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12D-26L"
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "12F-31L"
     },
     {
         "Course": "CSE423-13",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12D-26L"
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE423-14",
         "Lab Day": "THU",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09F-24L"
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE423-15",
-        "Lab Day": "SAT",
+        "Lab Day": "SUN",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09F-27L"
+        "Lab Room": "12F-31L"
     },
     {
         "Course": "CSE423-16",
         "Lab Day": "SAT",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09F-27L"
+        "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE423-17",
-        "Lab Day": "MON",
+        "Lab Day": "SAT",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09E-22L"
+        "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE423-18",
-        "Lab Day": "WED",
+        "Lab Day": "THU",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "12F-30L"
+        "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE423-19",
-        "Lab Day": "SUN",
+        "Lab Day": "MON",
         "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09F-27L"
+        "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE423-20",
-        "Lab Day": "SUN",
+        "Lab Day": "MON",
         "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09F-27L"
+        "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE423-21",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09B-11L"
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE423-22",
         "Lab Day": "MON",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09F-24L"
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE423-23",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09E-21L"
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12F-32L"
     },
     {
         "Course": "CSE423-24",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09E-21L"
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12F-32L"
     },
     {
         "Course": "CSE423-25",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09E-21L"
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "12F-31L"
     },
     {
         "Course": "CSE423-26",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09E-21L"
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "12F-31L"
     },
     {
         "Course": "CSE423-27",
         "Lab Day": "TUE",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09E-21L"
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE423-28",
         "Lab Day": "TUE",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09E-21L"
-    },
-    {
-        "Course": "CSE423-29",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09F-24L"
-    },
-    {
-        "Course": "CSE423-30",
-        "Lab Day": "MON",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09E-22L"
-    },
-    {
-        "Course": "CSE423-31",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "12D-27L"
+        "Lab Room": "10E-27L"
     },
     {
         "Course": "CSE424-01",
@@ -2443,20 +2575,20 @@
     },
     {
         "Course": "CSE427-01",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09F-27L"
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "12F-30L"
     },
     {
         "Course": "CSE427-02",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09F-27L"
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12F-30L"
     },
     {
         "Course": "CSE427-03",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "2:00 PM",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "11:00 AM",
         "Lab Room": "09F-27L"
     },
     {
@@ -2466,16 +2598,40 @@
         "Lab Room": "09F-27L"
     },
     {
-        "Course": "CSE428-01",
+        "Course": "CSE427-05",
         "Lab Day": "MON",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12F-31L"
+        "Lab Room": "12F-30L"
+    },
+    {
+        "Course": "CSE427-06",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09E-22L"
+    },
+    {
+        "Course": "CSE427-07",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09E-21L"
+    },
+    {
+        "Course": "CSE427-08",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09F-26L"
+    },
+    {
+        "Course": "CSE428-01",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09F-25L"
     },
     {
         "Course": "CSE428-02",
         "Lab Day": "TUE",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09F-24L"
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "12F-30L"
     },
     {
         "Course": "CSE428-03",
@@ -2484,22 +2640,40 @@
         "Lab Room": "09F-24L"
     },
     {
-        "Course": "CSE440-01",
-        "Lab Day": "SUN",
+        "Course": "CSE428-04",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09F-24L"
+    },
+    {
+        "Course": "CSE430-01",
+        "Lab Day": "WED",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "10G-32L"
+        "Lab Room": "10E-27L"
+    },
+    {
+        "Course": "CSE440-01",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12F-30L"
     },
     {
         "Course": "CSE440-02",
-        "Lab Day": "SUN",
+        "Lab Day": "TUE",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "10G-32L"
+        "Lab Room": "12F-30L"
     },
     {
         "Course": "CSE440-03",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09F-27L"
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12F-30L"
+    },
+    {
+        "Course": "CSE440-04",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "12F-30L"
     },
     {
         "Course": "CSE446-01",
@@ -2511,59 +2685,77 @@
         "Course": "CSE447-01",
         "Lab Day": "TUE",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "12F-30L"
+        "Lab Room": "09E-22L"
     },
     {
         "Course": "CSE460-01",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09F-24L"
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09F-27L"
     },
     {
         "Course": "CSE460-02",
         "Lab Day": "MON",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "10E-27L"
+        "Lab Room": "09F-24L"
     },
     {
         "Course": "CSE460-03",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09F-24L"
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "10G-32L"
     },
     {
         "Course": "CSE460-04",
         "Lab Day": "MON",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "10E-27L"
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "10G-33L"
     },
     {
         "Course": "CSE460-05",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "10E-27L"
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "10G-32L"
     },
     {
         "Course": "CSE460-06",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "8:00 AM",
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "11:00 AM",
         "Lab Room": "09F-24L"
     },
     {
         "Course": "CSE460-07",
         "Lab Day": "SAT",
-        "Lab Time (3hr)": "2:00 PM",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09E-21L"
+    },
+    {
+        "Course": "CSE460-08",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "11:00 AM",
         "Lab Room": "09F-24L"
     },
     {
+        "Course": "CSE460-09",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09F-26L"
+    },
+    {
+        "Course": "CSE460-10",
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "09E-21L"
+    },
+    {
         "Course": "CSE461-01",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "10G-33L"
+        "Lab Day": "SAT",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "10G-32L"
     },
     {
         "Course": "CSE461-02",
-        "Lab Day": "TUE",
+        "Lab Day": "SAT",
         "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "10G-32L"
     },
@@ -2571,36 +2763,42 @@
         "Course": "CSE461-03",
         "Lab Day": "THU",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "10G-33L"
+        "Lab Room": "10G-32L"
     },
     {
         "Course": "CSE461-04",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "10G-33L"
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "10G-32L"
     },
     {
         "Course": "CSE461-05",
-        "Lab Day": "WED",
+        "Lab Day": "SUN",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "10G-33L"
+        "Lab Room": "10G-32L"
     },
     {
         "Course": "CSE461-06",
-        "Lab Day": "SAT",
+        "Lab Day": "MON",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "10G-33L"
+        "Lab Room": "10G-32L"
     },
     {
         "Course": "CSE461-07",
-        "Lab Day": "MON",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "10G-33L"
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "10G-32L"
     },
     {
         "Course": "CSE461-08",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "2:00 PM",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "10G-32L"
+    },
+    {
+        "Course": "CSE461-09",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "8:00 AM",
         "Lab Room": "10G-32L"
     },
     {
@@ -2611,110 +2809,104 @@
     },
     {
         "Course": "CSE471-01",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09E-22L"
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09F-26L"
     },
     {
         "Course": "CSE471-02",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09E-22L"
+        "Lab Day": "THU",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09F-26L"
     },
     {
         "Course": "CSE471-03",
-        "Lab Day": "MON",
+        "Lab Day": "SAT",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09E-22L"
+        "Lab Room": "09F-26L"
     },
     {
         "Course": "CSE471-04",
-        "Lab Day": "MON",
+        "Lab Day": "SAT",
         "Lab Time (3hr)": "2:00 PM",
-        "Lab Room": "09F-24L"
+        "Lab Room": "09F-26L"
     },
     {
         "Course": "CSE471-05",
-        "Lab Day": "WED",
+        "Lab Day": "SAT",
         "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "10G-32L"
+        "Lab Room": "09F-26L"
     },
     {
         "Course": "CSE471-06",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09E-22L"
-    },
-    {
-        "Course": "CSE471-07",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09E-22L"
-    },
-    {
-        "Course": "CSE471-08",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "09E-22L"
-    },
-    {
-        "Course": "CSE471-09",
-        "Lab Day": "SAT",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "10E-27L"
-    },
-    {
-        "Course": "CSE471-10",
-        "Lab Day": "TUE",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "09E-22L"
-    },
-    {
-        "Course": "CSE471-11",
-        "Lab Day": "WED",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12F-31L"
-    },
-    {
-        "Course": "CSE471-12",
-        "Lab Day": "MON",
+        "Lab Day": "SUN",
         "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "09E-21L"
     },
     {
-        "Course": "CSE471-13",
+        "Course": "CSE471-07",
+        "Lab Day": "SUN",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "10G-32L"
+    },
+    {
+        "Course": "CSE471-08",
         "Lab Day": "MON",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09F-27L"
+    },
+    {
+        "Course": "CSE471-09",
+        "Lab Day": "MON",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09F-27L"
+    },
+    {
+        "Course": "CSE471-10",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "8:00 AM",
+        "Lab Room": "09F-26L"
+    },
+    {
+        "Course": "CSE471-11",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "09F-26L"
+    },
+    {
+        "Course": "CSE471-12",
+        "Lab Day": "WED",
+        "Lab Time (3hr)": "11:00 AM",
+        "Lab Room": "10G-32L"
+    },
+    {
+        "Course": "CSE471-13",
+        "Lab Day": "WED",
         "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "10G-32L"
+    },
+    {
+        "Course": "CSE472-01",
+        "Lab Day": "TUE",
+        "Lab Time (3hr)": "2:00 PM",
+        "Lab Room": "12F-30L"
     },
     {
         "Course": "CSE481-01",
         "Lab Day": "THU",
         "Lab Time (3hr)": "8:00 AM",
-        "Lab Room": "10G-32L"
+        "Lab Room": "09F-24L"
     },
     {
         "Course": "CSE482-01",
         "Lab Day": "THU",
         "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "10G-32L"
+        "Lab Room": "09B-09L"
     },
     {
         "Course": "CSE489-01",
         "Lab Day": "SUN",
         "Lab Time (3hr)": "2:00 PM",
         "Lab Room": "FT11-04L"
-    },
-    {
-        "Course": "CSE490-01",
-        "Lab Day": "THU",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "12F-32L"
-    },
-    {
-        "Course": "EEE362-20",
-        "Lab Day": "SUN",
-        "Lab Time (3hr)": "11:00 AM",
-        "Lab Room": "FT11-03L"
     }
 ]
