@@ -1,50 +1,16 @@
-# Vite & HeroUI Template
+# React + Vite
 
-This is a template for creating applications using Vite and HeroUI (v2).
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-[Try it on CodeSandbox](https://githubbox.com/frontio-ai/vite-template)
+Currently, two official plugins are available:
 
-## Technologies Used
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-- [Vite](https://vitejs.dev/guide/)
-- [HeroUI](https://heroui.com)
-- [Tailwind CSS](https://tailwindcss.com)
-- [Tailwind Variants](https://tailwind-variants.org)
-- [TypeScript](https://www.typescriptlang.org)
-- [Framer Motion](https://www.framer.com/motion)
+## React Compiler
 
-## How to Use
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-To clone the project, run the following command:
+## Expanding the ESLint configuration
 
-```bash
-git clone https://github.com/frontio-ai/vite-template.git
-```
-
-### Install dependencies
-
-You can use one of them `npm`, `yarn`, `pnpm`, `bun`, Example using `npm`:
-
-```bash
-npm install
-```
-
-### Run the development server
-
-```bash
-npm run dev
-```
-
-### Setup pnpm (optional)
-
-If you are using `pnpm`, you need to add the following code to your `.npmrc` file:
-
-```bash
-public-hoist-pattern[]=*@heroui/*
-```
-
-After modifying the `.npmrc` file, you need to run `pnpm install` again to ensure that the dependencies are installed correctly.
-
-## License
-
-Licensed under the [MIT license](https://github.com/frontio-ai/vite-template/blob/main/LICENSE).
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
