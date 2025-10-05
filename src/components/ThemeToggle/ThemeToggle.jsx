@@ -1,5 +1,6 @@
 import { Moon, Sun } from "lucide-react";
 import { useEffect, useState } from "react";
+import { Link } from "react-router";
 
 const ThemeToggle = () => {
     const [isDark, setIsDark] = useState(() =>
@@ -20,7 +21,9 @@ const ThemeToggle = () => {
 
     return (
         <button onClick={() => setIsDark(!isDark)}>
-            {isDark ? <Moon /> : <Sun />}
+            <Link>
+                {isDark ? <Moon /> : <Sun />}
+            </Link>
         </button>
     );
 }
