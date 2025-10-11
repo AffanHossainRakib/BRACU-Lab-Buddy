@@ -1,7 +1,7 @@
 import { Chip } from "@heroui/chip";
 import { Github } from "lucide-react";
 import { Alert } from "@heroui/alert";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 import { Navbar } from "@/components/navbar";
 import { Analytics } from "@vercel/analytics/react";
@@ -12,13 +12,42 @@ export default function DefaultLayout({
   children: React.ReactNode;
 }) {
   const [showToast1, setShowToast1] = useState(() => {
-    const cached = localStorage.getItem('toast1-dismissed');
-    return cached !== 'true';
+    const cached = sessionStorage.getItem("toast1-dismissed");
+    return cached !== "true";
   });
   const [showToast2, setShowToast2] = useState(() => {
-    const cached = localStorage.getItem('toast2-dismissed');
-    return cached !== 'true';
+    const cached = sessionStorage.getItem("toast2-dismissed");
+    return cached !== "true";
   });
+  const [countdown, setCountdown] = useState("");
+
+  useEffect(() => {
+    const targetDate = new Date("2025-10-18T00:00:00").getTime();
+
+    const updateCountdown = () => {
+      const now = new Date().getTime();
+      const distance = targetDate - now;
+
+      if (distance < 0) {
+        setCountdown("Domain has moved!");
+        return;
+      }
+
+      const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+      const hours = Math.floor(
+        (distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)
+      );
+      const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+      const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+      setCountdown(`${days}d ${hours}h ${minutes}m ${seconds}s`);
+    };
+
+    updateCountdown();
+    const interval = setInterval(updateCountdown, 1000);
+
+    return () => clearInterval(interval);
+  }, []);
 
   const handleGitHubClick = () => {
     window.open("https://github.com/AffanHossainRakib/", "_blank");
@@ -26,12 +55,12 @@ export default function DefaultLayout({
 
   const handleToast1Close = () => {
     setShowToast1(false);
-    localStorage.setItem('toast1-dismissed', 'true');
+    sessionStorage.setItem("toast1-dismissed", "true");
   };
 
   const handleToast2Close = () => {
     setShowToast2(false);
-    localStorage.setItem('toast2-dismissed', 'true');
+    sessionStorage.setItem("toast2-dismissed", "true");
   };
 
   return (
@@ -52,12 +81,15 @@ export default function DefaultLayout({
           // This alert will have a link which will be redirected to the new domain
           <Alert
             color="warning"
-            title="We are moving to a new domain!"
-            description={`Click here to visit the new site. 
-              https://bracu-lab-buddy.pages.dev/`}
-
+            title={`We are moving to a new domain in ${countdown}`}
+            description={`Click here to visit the new site: https://bracu-lab-buddy.pages.dev/
+      `}
             onClick={() =>
-              window.open("https://bracu-lab-buddy.pages.dev/", "_blank", "noopener noreferrer")
+              window.open(
+                "https://bracu-lab-buddy.pages.dev/",
+                "_blank",
+                "noopener noreferrer"
+              )
             }
             className="cursor-pointer"
             isClosable
