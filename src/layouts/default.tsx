@@ -64,26 +64,33 @@ export default function DefaultLayout({
   // };
 
   return (
-    <div className="relative flex flex-col h-screen">
-      <Navbar />
+    <div className="relative flex flex-col h-screen bg-background text-foreground overflow-x-hidden">
+      {/* Background Gradients */}
+      <div className="fixed inset-0 z-0 pointer-events-none">
+        <div className="absolute top-[-20%] left-[-10%] w-[50%] h-[50%] rounded-full bg-primary/10 blur-[120px]" />
+        <div className="absolute bottom-[-20%] right-[-10%] w-[50%] h-[50%] rounded-full bg-secondary/10 blur-[120px]" />
+      </div>
 
-      {/* Toast notifications */}
-      <div className="container mx-auto max-w-7xl px-6 pt-4 space-y-2">
-        {showToast1 && (
-          <Alert
-            color="primary"
-            title="Last Updated Fall 2025"
-            isClosable
-            onClose={handleToast1Close}
-          />
-        )}
-        {/* {showToast2 && (
+      <div className="relative z-10 flex flex-col h-screen">
+        <Navbar />
+
+        {/* Toast notifications */}
+        <div className="container mx-auto max-w-7xl px-6 pt-4 space-y-2">
+          {showToast1 && (
+            <Alert
+              color="primary"
+              title="Last Updated Fall 2025"
+              isClosable
+              onClose={handleToast1Close}
+            />
+          )}
+          {/* {showToast2 && (
           // This alert will have a link which will be redirected to the new domain
           <Alert
             color="warning"
             title={`We are moving to a new domain in ${countdown}`}
             description={`Click here to visit the new site: https://bracu-lab-buddy.pages.dev/
-      `} */}
+      `}
             onClick={() =>
               window.open(
                 "https://bracu-lab-buddy.pages.dev/",
@@ -95,24 +102,25 @@ export default function DefaultLayout({
             isClosable
             onClose={handleToast2Close}
           />
-        )}
-      </div>
+        )} */}
+        </div>
 
-      <main className="container mx-auto max-w-7xl px-6 flex-grow pt-6">
-        {children}
-      </main>
-      <footer className="w-full flex items-center justify-center py-3 pb-safe">
-        <Chip
-          startContent={<Github size={16} />}
-          variant="flat"
-          color="primary"
-          className="cursor-pointer hover:bg-primary-100 transition-colors"
-          onClick={handleGitHubClick}
-        >
-          Made by Affan Hossain Rakib
-        </Chip>
-      </footer>
-      <Analytics />
+        <main className="container mx-auto max-w-7xl px-6 flex-grow pt-6">
+          {children}
+        </main>
+        <footer className="w-full flex items-center justify-center py-3 pb-safe">
+          <Chip
+            startContent={<Github size={16} />}
+            variant="flat"
+            color="primary"
+            className="cursor-pointer hover:bg-primary-100 transition-colors"
+            onClick={handleGitHubClick}
+          >
+            Made by Affan Hossain Rakib
+          </Chip>
+        </footer>
+        <Analytics />
+      </div>
     </div>
   );
 }
