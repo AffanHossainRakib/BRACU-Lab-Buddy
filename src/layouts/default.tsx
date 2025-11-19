@@ -15,10 +15,10 @@ export default function DefaultLayout({
     const cached = sessionStorage.getItem("toast1-dismissed");
     return cached !== "true";
   });
-  const [showToast2, setShowToast2] = useState(() => {
-    const cached = sessionStorage.getItem("toast2-dismissed");
-    return cached !== "true";
-  });
+  // const [showToast2, setShowToast2] = useState(() => {
+  //   const cached = sessionStorage.getItem("toast2-dismissed");
+  //   return cached !== "true";
+  // });
   const [countdown, setCountdown] = useState("");
 
   useEffect(() => {
@@ -58,10 +58,10 @@ export default function DefaultLayout({
     sessionStorage.setItem("toast1-dismissed", "true");
   };
 
-  const handleToast2Close = () => {
-    setShowToast2(false);
-    sessionStorage.setItem("toast2-dismissed", "true");
-  };
+  // const handleToast2Close = () => {
+  //   setShowToast2(false);
+  //   sessionStorage.setItem("toast2-dismissed", "true");
+  // };
 
   return (
     <div className="relative flex flex-col h-screen">
@@ -77,13 +77,13 @@ export default function DefaultLayout({
             onClose={handleToast1Close}
           />
         )}
-        {showToast2 && (
+        {/* {showToast2 && (
           // This alert will have a link which will be redirected to the new domain
           <Alert
             color="warning"
             title={`We are moving to a new domain in ${countdown}`}
             description={`Click here to visit the new site: https://bracu-lab-buddy.pages.dev/
-      `}
+      `} */}
             onClick={() =>
               window.open(
                 "https://bracu-lab-buddy.pages.dev/",
