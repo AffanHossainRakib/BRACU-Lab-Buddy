@@ -27,7 +27,6 @@ BRACU Lab Buddy is a simple yet powerful tool that helps Computer Science & Engi
 - **HeroUI** - Beautiful React component library
 - **Framer Motion** - Smooth animations
 - **Lucide React** - Modern icon library
-- **Vercel Analytics** - Performance and usage insights
 
 ## 📦 Dependencies
 
@@ -118,7 +117,7 @@ The application uses `CSE_Lab_Schedule.json` which contains lab schedules for al
 
 ## 🌐 Live Demo
 
-Visit the live application: **[BRACU Lab Buddy](https://bracu-lab-buddy.vercel.app)**
+Visit the live application: **[BRACU Lab Buddy](https://bracu-lab-buddy.pages.dev/)**
 
 ## 📂 Project Structure
 
