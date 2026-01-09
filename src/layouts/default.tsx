@@ -84,6 +84,15 @@ export default function DefaultLayout({
               onClose={handleToast1Close}
             />
           )}
+          {/* https://thestudysync.vercel.app/ */}
+          <Alert
+            title="Tired of organizing study materials? Try our new service: https://thestudysync.vercel.app"
+            onClick={() =>
+              window.open("https://thestudysync.vercel.app/", "_blank")
+            }
+            className="cursor-pointer"
+            color="success"
+          />
           {/* {showToast2 && (
           // This alert will have a link which will be redirected to the new domain
           <Alert
